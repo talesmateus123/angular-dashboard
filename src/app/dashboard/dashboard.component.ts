@@ -3,6 +3,8 @@ import { Component, OnInit } from '@angular/core';
 
 import { DataService } from './data.service';
 
+declare var google: any;
+
 @Component({
   selector: 'app-dashboard',
   templateUrl: './dashboard.component.html',
