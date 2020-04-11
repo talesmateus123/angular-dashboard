@@ -1,6 +1,6 @@
 # Dashboard project
 
-This project is an Angular CLI example, using a Google Chart, an external API for generating many types for graphics, implementing the Observer pattern manually for didactic purpose, and has implementing good programming practices, As well as, code documentation, form validation,  and layers abstraction, that is, abstraction of components, services, and modules. I hope to help you with this angular example.
+This project is an Angular CLI example, using a Google Chart, an external API for generating many types for charts, implementing the Observer pattern manually for didactic purpose, and has implementing good programming practices, As well as, code documentation, form validation,  and layers abstraction, that is, abstraction of components, services, and modules. I hope to help you with this angular example.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
 
